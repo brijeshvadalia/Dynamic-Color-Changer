@@ -41,7 +41,7 @@
 
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
-># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-see-what-you-type-dynamic.netlify.app/ "See what you type dynamic")
+># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-dynamic-color-changer.netlify.app/ "Dynamic color changer")
 
 >![Screenshot](./Screenshot/screenshot-1.png)
 >![Screenshot](./Screenshot/screenshot-2.png)
